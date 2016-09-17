@@ -1,6 +1,12 @@
-# Ng2Layout
+# ng2-layout
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.14.
+This project is still under development. Do not use yet.
+
+## Installing
+`npm install ng2-layout`
+
+## Using
+Import the layout module you'd like to use, or import all layouts via the Ng2Layout.module.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
