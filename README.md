@@ -1,6 +1,6 @@
 # ng2-layout
 
-This project is still under development. Do not use yet.
+## THIS PROJECT IS STILL UNDER HEAVY DEVELOPMENT. DO NOT USE.
 
 ## Installing
 `npm install ng2-layout`
